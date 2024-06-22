@@ -1,0 +1,9 @@
+div {
+  color: cyan;
+}
+
+.logo {
+  width: 500px;
+  height: 500px;
+  background-image: url("../images/logo.png");
+}
